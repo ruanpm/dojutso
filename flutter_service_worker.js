@@ -3,16 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1052edbce90a30bb8b7a2957accdfe9e",
+  "assets/AssetManifest.json": "42fafe65c72b34a73dc09bbc8ae5d6cd",
 "assets/assets/1-whatsapp.png": "7d915161b6b420b7d12bba7d57c81183",
 "assets/assets/dojutso-logo.png": "bae07a20dbc7afd2e175e8a84d1f3c9c",
+"assets/assets/people-monitor-graph.png": "d7f3db370befac935c4e119551ddac82",
+"assets/assets/people-monitor.png": "86fcc7ce0dabc98c6685e613f11147c8",
+"assets/assets/vid1.gif": "69998aa5923dba5c4c5e32d539c88262",
+"assets/assets/vid2.gif": "cf4d042fbd40764cde0cbd86f9be0f05",
+"assets/assets/vid3.gif": "987e7c37fa0c8e3b713844485e564932",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "5b56b8926f274e5cab33b70529a74667",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "index.html": "f0ef2a33b21b20831f883a0fadf160d8",
 "/": "f0ef2a33b21b20831f883a0fadf160d8",
-"main.dart.js": "658d4e360644aabb23bb2d20f4b745e1",
+"main.dart.js": "1eba4fa8a2022f9b110ffddddbadfef9",
 "version.json": "b0e3193bcfa453ddc2036ced661fa6de"
 };
 

@@ -34819,11 +34819,11 @@ L.Hw.prototype={
 K:function(a,b){var s=null,r=M.be(s,T.fY(H.c([new L.Bn(s),new L.BV(s),new L.Fh(s),new L.qf(s),new L.rc(s),new L.yM(s),new L.Az(s)],t.X),C.aI,C.ax),s,s,s,s,s,s,s)
 return new M.uh(new E.E0(!0,r,s),s)}}
 L.BV.prototype={
-K:function(a,b){var s,r=null,q="https://i.imgur.com/nkqDrUb.png",p=t.w,o=b.O(p).f,n=H.c([$.y_(),$.mC()],t.r8),m=b.O(p).f.a.a>1000?1000:b.O(p).f.a.a,l=b.O(p).f,k=b.O(p).f.a.a>1000?500:b.O(p).f.a.a/2
-k=M.be(r,new L.tu(r),r,r,r,r,r,r,k)
-p=b.O(p).f.a.a>1000?500:b.O(p).f.a.a/2
+K:function(a,b){var s,r=null,q=t.w,p=b.O(q).f,o=H.c([$.y_(),$.mC()],t.r8),n=b.O(q).f.a.a>1000?1000:b.O(q).f.a.a,m=b.O(q).f,l=b.O(q).f.a.a>1000?500:b.O(q).f.a.a/2
+l=M.be(r,new L.tu(r),r,r,r,r,r,r,l)
+q=b.O(q).f.a.a>1000?500:b.O(q).f.a.a/2
 s=t.X
-return M.be(C.ae,B.acE(M.be(r,T.lE(H.c([k,M.be(r,new L.ig(q,r),r,r,r,r,r,r,p)],s),C.ax,C.df),r,r,r,l.a.b,r,r,m),T.fY(H.c([M.be(r,new L.tu(r),r,r,r,r,r,new V.aF(0,20,0,20),r),new T.ii(C.vV,new L.ig(q,r),r)],s),C.aI,C.ax)),r,r,new S.dy(r,r,r,r,r,new T.fh(C.hp,C.f1,C.bl,n,r,r),C.Z),r,r,new V.aF(0,10,0,50),o.a.a)}}
+return M.be(C.ae,B.acE(M.be(r,T.lE(H.c([l,M.be(r,new L.ig("assets/people-monitor.png",r),r,r,r,r,r,r,q)],s),C.ax,C.df),r,r,r,m.a.b,r,r,n),T.fY(H.c([M.be(r,new L.tu(r),r,r,r,r,r,new V.aF(0,20,0,20),r),new T.ii(C.vV,new L.ig("https://i.imgur.com/nkqDrUb.png",r),r)],s),C.aI,C.ax)),r,r,new S.dy(r,r,r,r,r,new T.fh(C.hp,C.f1,C.bl,o,r,r),C.Z),r,r,new V.aF(0,10,0,50),p.a.a)}}
 L.Bn.prototype={
 K:function(a,b){var s=null,r=H.c([$.mC(),$.y_()],t.r8)
 return M.be(s,new T.ii(C.vW,T.lE(H.c([U.abw("assets/dojutso-logo.png",200)],t.X),C.ax,C.df),s),s,s,new S.dy(s,s,s,s,s,new T.fh(C.hp,C.f1,C.bl,r,s,s),C.Z),s,s,s,s)}}
@@ -34881,7 +34881,7 @@ $0:function(){this.a.ny("https://api.whatsapp.com/send?phone=5551984744525&text=
 $S:1}
 L.Fh.prototype={
 K:function(a,b){var s=null,r=b.O(t.w).f,q=t.X
-return M.be(s,T.fY(H.c([L.dm("Monitoramento em tempo real!",A.cw(s,s,$.mC(),s,s,s,s,s,s,s,s,45,s,C.aR,s,s,!0,1,s,s,s,s,s),C.N),T.bE(s,8,s),T.bE(s,24,s),new T.Fp(30,10,H.c([A.yH(s,"https://i.imgur.com/V4PfOvf.gif",new L.Zv(),400),A.yH(230,"https://i.imgur.com/z2X1T0s.gif",new L.Zw(),400),A.yH(s,"https://i.imgur.com/kSXEF9I.gif",new L.Zx(),400)],q),s)],q),C.aI,C.ax),C.j,s,s,s,s,new V.aF(40,50,40,80),r.a.a)}}
+return M.be(s,T.fY(H.c([L.dm("Monitoramento em tempo real!",A.cw(s,s,$.mC(),s,s,s,s,s,s,s,s,45,s,C.aR,s,s,!0,1,s,s,s,s,s),C.N),T.bE(s,8,s),T.bE(s,24,s),new T.Fp(30,10,H.c([A.yH(s,"assets/vid1.gif",new L.Zv(),400),A.yH(230,"assets/vid2.gif",new L.Zw(),400),A.yH(s,"assets/vid3.gif",new L.Zx(),400)],q),s)],q),C.aI,C.ax),C.j,s,s,s,s,new V.aF(40,50,40,80),r.a.a)}}
 L.Zv.prototype={
 $2:function(a,b){return T.mX(T.bE(U.yQ(),40,40),null,null)},
 $S:35}
@@ -34898,7 +34898,7 @@ b_:function(){var s,r
 this.bj()
 s=H.c([],t.ue)
 r=new F.yi()
-r.c="https://i.imgur.com/uYKRBCP.png"
+r.c="assets/people-monitor-graph.png"
 r.a="A\xe7\xf5es com base em Informa\xe7\xf5es!"
 r.b="Dados hist\xf3ricos e acompanhamento em tempo real do seu p\xfablico."
 s.push(r)
