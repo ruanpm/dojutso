@@ -37,6 +37,7 @@ const RESOURCES = {
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Size4-Regular.ttf": "85554307b465da7eb785fd3ce52ad282",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Typewriter-Regular.ttf": "87f56927f1ba726ce0591955c8b3b42d",
 "assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
+"favicon.ico": "a2d2da593724dbfc767500a411415304",
 "index.html": "f0ef2a33b21b20831f883a0fadf160d8",
 "/": "f0ef2a33b21b20831f883a0fadf160d8",
 "main.dart.js": "789a4e4a301a7b689007a4658ae714cb",
